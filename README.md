@@ -24,9 +24,9 @@ A high-reliability, offline-first Flutter delivery application that records rout
 | <img src="screenshots/Home_Screen.jpg" width="240" alt="Milepost Home Screen"> | <img src="screenshots/Manifest_Screen.jpg" width="240" alt="Milepost Manifest Screen"> | <img src="screenshots/Tracking_Screen.jpg" width="240" alt="Milepost Live Tracking Screen"> |
 | <sub>Daily progress & weather alerts</sub> | <sub>Distance-sorted stops & counts</sub> | <sub>Breadcrumb trail & live metrics</sub> |
 
-| Proof of Delivery | Arrival Notification | AMOLED Black Theme |
+| Proof of Delivery | AMOLED Black Theme |
 |:---:|:---:|:---:|
-| <img src="screenshots/PoD_Screen.jpg" width="240" alt="Milepost Proof of Delivery Screen"> | <img src="screenshots/Alert_Notification.jpg" width="240" alt="Milepost Arrival Alert Notification"> | <img src="screenshots/AMOLED_Settings.jpg" width="240" alt="Milepost AMOLED Settings Screen"> |
+| <img src="screenshots/PoD_Screen.jpg" width="240" alt="Milepost Proof of Delivery Screen"> | <img src="screenshots/AMOLED_Settings.jpg" width="240" alt="Milepost AMOLED Settings Screen"> |
 | <sub>Photo capture & recipient signature</sub> | <sub>Radius alerts & background service</sub> | <sub>True-black UI & GPS accuracy controls</sub> |
 
 ---
